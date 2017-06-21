@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Guess.Functional")]
+[assembly: AssemblyTitle("Fibo")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Guess.Functional")]
+[assembly: AssemblyProduct("Fibo")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("3c32ebd7-e6e5-4230-b203-0d358ede2ab3")]
+[assembly: Guid("cd87cb43-e597-4991-a35a-9942fe6cdab4")]
 
 // Version information for an assembly consists of the following four values:
 //
